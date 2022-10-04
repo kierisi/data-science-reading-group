@@ -1,1 +1,1 @@
-# data-science-reading-group
+# The Data Science Community Reading Group
