@@ -25,9 +25,9 @@ the content.
 * Content for the bi-weekly reading group will be shorter in nature than the 
 monthly reading group, and generally not exceed 50 pages for written content.  
 * Every other Monday (Tuesdays when there's a US holiday) we'll post a poll with 
-four options from the open access section of our [full-reading-list.md file]().  
+four options from the open access section of our [full-reading-list.md file](https://github.com/kierisi/data-science-reading-group/blob/main/full-reading-list.md).  
 * The poll will stay open until 10AM Central on Thursday of the same week, at which
-time a general discussion thread will be posted in the [Reading Group category]().  
+time a general discussion thread will be posted in the [Reading Group category](https://community.baseten.co/c/reading-group/12).  
 * You're welcome to respond to the general discussion thread, or to start your 
 own topic related to the reading.
 
@@ -40,12 +40,12 @@ friend or colleague.
 investment from participants, although there's no requirement to read the entire 
 book in order to participate.  
 * The first Monday of each month (Tuesdays when there's a US holiday) we'll post 
-a poll with four options from the paid section of our [full-reading-list.md file]().  
+a poll with four options from the paid section of our [full-reading-list.md file](https://github.com/kierisi/data-science-reading-group/blob/main/full-reading-list.md).  
 * The poll will stay open until 10AM Central on Thursday of the same week, at which 
 point anyone interested in participating should make arrangements to purchase or 
 borrow the book.  
 * The first day of the following month a general discussion thread will be posted 
-in the [Reading Group category]().  
+in the [Reading Group category](https://community.baseten.co/c/reading-group/12).  
 * You're welcome to respond to the general discussion thread for the book, and 
 encouraged to start your own topic related to the reading!  
 
@@ -74,7 +74,7 @@ None -- yet! We're just getting started 😊
 If you'd like to recommend a book, blog post, video, research article, or any 
 other type of data science- or machine learning-related please feel free to either 
 file an issue or open a PR that adds your recommendation to the bottom of the 
-table in the [full-reading-list.md file](). 
+table in the [full-reading-list.md file](https://github.com/kierisi/data-science-reading-group/blob/main/full-reading-list.md). 
 
 For each recommendation please include the following information:  
 
