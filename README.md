@@ -83,4 +83,4 @@ purchased//borrowed from a library
 * **Type:** the type of content (book, blog post, video, etc.)  
 * **Title:** the title of the content  
 * **Author:** the author(s) of the content  
-* **URL: ** a URL where we can access the content, or find more information  
+* **URL:** a URL where we can access the content, or find more information  

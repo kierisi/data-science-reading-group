@@ -31,7 +31,7 @@
 ----------
 
 ## Paid
-
+ 
 #### Books
 
 * **[Deep Medicine](https://drerictopol.com/portfolio/deep-medicine/)** by Eric Topol (400 pages)
