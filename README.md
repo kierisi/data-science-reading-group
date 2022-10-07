@@ -62,8 +62,8 @@ participate in the conversation.
 
 ### Currently reading
 
-* **Bi-weekly reading group**: voting is in progress  
-* **Monthly reading group**: voting is in progress   
+* **Bi-weekly reading group**: [voting is in progress](https://community.baseten.co/t/bi-weekly-vote-for-october-13th-27th/30/2)  
+* **Monthly reading group**: [voting is in progress](https://community.baseten.co/t/vote-for-our-november-book-club/31/2)   
 
 ### Previous reads
 None -- yet! We're just getting started 😊  
