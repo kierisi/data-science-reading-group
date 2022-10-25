@@ -62,11 +62,12 @@ participate in the conversation.
 
 ### Currently reading
 
-* **Bi-weekly reading group**: [voting is in progress](https://community.baseten.co/t/bi-weekly-vote-for-october-13th-27th/30/2)  
-* **Monthly reading group**: [voting is in progress](https://community.baseten.co/t/vote-for-our-november-book-club/31/2)   
+* **Bi-weekly reading group**: [voting is in progress](https://community.baseten.co/t/bi-weekly-vote-for-october-27th-november-10th/139)  
+* **Monthly reading group**: starting November 1 we'll be reading **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)   
 
 ### Previous reads
-None -- yet! We're just getting started 😊  
+* **Bi-weekly reading group**:  
+    - **[Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)** by Shreya Shankar et al 
 
 ----------
 
