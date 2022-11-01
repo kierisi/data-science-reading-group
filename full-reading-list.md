@@ -27,6 +27,7 @@
 
 * **[Storytelling with Data](https://www.youtube.com/watch?v=8EMW7io4rSI)** by Cole Nussbaumer Knaflic
 * **[But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)** by 3Blue1Brown
+* [WATCHED!] [How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 
 ----------
 
@@ -47,4 +48,4 @@
 * **[Hello World](https://hannahfry.co.uk/book/hello-world/)** by Hannah Fry (272 pages)
 * **[Storytelling with Data: Let's Practice!](https://www.storytellingwithdata.com/books)** by Cole Nussbaumer Knaflic (448 pages)
 * **[How Charts Lie](https://albertocairo.com/)** by Alberto Cairo (256 pages)
-* [READING in November 2022] **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)
+* [READ November 2022] **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)

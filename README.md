@@ -60,10 +60,10 @@ participate in the conversation.
 
 ----------
 
-### Currently reading
+### Currently reading & watching
 
-* **Bi-weekly reading group**: [voting is in progress](https://community.baseten.co/t/bi-weekly-vote-for-october-27th-november-10th/139)  
-* **Monthly reading group**: starting November 1 we'll be reading **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)   
+* **Bi-weekly reading group**: [How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA) 
+* **Monthly reading group**: this November we'll be reading **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)   
 
 ### Previous reads
 * **Bi-weekly reading group**:  
