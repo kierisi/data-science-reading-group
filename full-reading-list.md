@@ -46,6 +46,6 @@
 * **[Artificial Unintelligence](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/)** by Meredith Broussard (246 pages)
 * **[Making Numbers Count](https://www.simonandschuster.com/books/Making-Numbers-Count/Chip-Heath/9781982165444)** by Chip Heath and Karla Starr (208 pages)
 * **[Hello World](https://hannahfry.co.uk/book/hello-world/)** by Hannah Fry (272 pages)
-* **[Storytelling with Data: Let's Practice!](https://www.storytellingwithdata.com/books)** by Cole Nussbaumer Knaflic (448 pages)
+* [WATCHING November 2022] **[Storytelling with Data: Let's Practice!](https://www.storytellingwithdata.com/books)** by Cole Nussbaumer Knaflic (448 pages)
 * **[How Charts Lie](https://albertocairo.com/)** by Alberto Cairo (256 pages)
 * [READ November 2022] **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)

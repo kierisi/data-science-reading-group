@@ -62,11 +62,13 @@ participate in the conversation.
 
 ### Currently reading & watching
 
-* **Bi-weekly reading group**: [How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA) 
-* **Monthly reading group**: this November we'll be reading **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)   
+* **Bi-weekly reading group**: **[Storytelling with Data](https://www.youtube.com/watch?v=8EMW7io4rSI)** by Cole Nussbaumer Knaflic
+* **Monthly reading group**: this November we're reading **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)   
+* The December [monthly reading group vote](https://community.baseten.co/t/vote-for-our-december-book-club/171) is underway!
 
 ### Previous reads
-* **Bi-weekly reading group**:  
+* **Bi-weekly reading group**:   
+    - **[How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA)** by Brandon Rohrer   
     - **[Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)** by Shreya Shankar et al 
 
 ----------
