@@ -62,12 +62,14 @@ participate in the conversation.
 
 ### Currently reading & watching
 
-* **Bi-weekly reading group**: **[Storytelling with Data](https://www.youtube.com/watch?v=8EMW7io4rSI)** by Cole Nussbaumer Knaflic
-* **Monthly reading group**: this November we're reading **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)   
-* The December [monthly reading group vote](https://community.baseten.co/t/vote-for-our-december-book-club/171) is underway!
+* **Bi-weekly reading group**: this group is currently on hold as we re-evaluate what we want it to look like in the new year! Got ideas? [I'd love for you to add them to this post!](https://community.baseten.co/t/about-the-reading-group-category/18/2?u=jesse)
+* **Monthly reading group**: this December we're reading **[Atlas of AI](https://yalebooks.yale.edu/book/9780300264630/atlas-of-ai/)** by Kate Crawford (336 pages)   
+* The January monthly reading group vote will be available on December 12th!
 
 ### Previous reads
 * **Bi-weekly reading group**:   
+    - **[Attention is all you need]()** by 
+    - **[Storytelling with Data](https://www.youtube.com/watch?v=8EMW7io4rSI)** by Cole Nussbaumer Knaflic
     - **[How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA)** by Brandon Rohrer   
     - **[Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)** by Shreya Shankar et al 
 
@@ -75,9 +77,7 @@ participate in the conversation.
 
 ### Contributing
 If you'd like to recommend a book, blog post, video, research article, or any 
-other type of data science- or machine learning-related please feel free to either 
-file an issue or open a PR that adds your recommendation to the bottom of the 
-table in the [full-reading-list.md file](https://github.com/kierisi/data-science-reading-group/blob/main/full-reading-list.md). 
+other type of data science- or machine learning-related please feel free to either file an issue or open a PR that adds your recommendation to the bottom of the list in the [full-reading-list.md file](https://github.com/kierisi/data-science-reading-group/blob/main/full-reading-list.md). 
 
 For each recommendation please include the following information:  
 

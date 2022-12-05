@@ -12,8 +12,9 @@
 * **[Hidden Technical Debt in Machine Learning Systems](https://proceedings.neurips.cc/paper/2015/file/86df7dcfd896fcaf2674f757a2463eba-Paper.pdf)** by D. Sculley et al
 * **[The Age of the Data Product](https://districtdatalabs.silvrback.com/the-age-of-the-data-product)** by Benjamin Bengfort
 * **[Releasing the death-grip of null hypothesis statistical testing ( p < .05): Applying complexity theory and somewhat precise outcome testing (SPOT)](https://www.researchgate.net/publication/312395254_Releasing_the_death-grip_of_null_hypothesis_statistical_testing_p_05_Applying_complexity_theory_and_somewhat_precise_outcome_testing_SPOT)** by Arch George Woodside
-* **[Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)** by Vaswani et al
 * **[How to Share Data with a Statistician](https://github.com/jtleek/datasharing)** by Jeff Leek
+
+* [READ!] **[Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)** by Vaswani et al
 * [READ!] **[Operationalizing Machine Learning: An Interview Study](https://arxiv.org/abs/2209.09125)** by Shreya Shankar et al 
 
 #### Short Books (< 50 pages)
@@ -27,6 +28,7 @@
 
 * **[Storytelling with Data](https://www.youtube.com/watch?v=8EMW7io4rSI)** by Cole Nussbaumer Knaflic
 * **[But What is a Neural Network?](https://www.youtube.com/watch?v=aircAruvnKk)** by 3Blue1Brown
+
 * [WATCHED!] [How Convolutional Neural Networks Work](https://www.youtube.com/watch?v=FmpDIaiMIeA)
 
 ----------
@@ -42,10 +44,11 @@
 * **[Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/)** by Cathy O’Neil (288 pages)
 * **[Algorithms of Oppression](https://nyupress.org/9781479837243/algorithms-of-oppression/)** by Safia Umoja Noble (248 pages)
 * **[Maps for Time Travelers](https://www.ucpress.edu/book/9780520389724/maps-for-time-travelers)** by Mark D. McCoy (280 pages)
-* **[Atlas of AI](https://www.katecrawford.net/)** by Kate Crawford (336 pages)
 * **[Artificial Unintelligence](https://mitpress.mit.edu/9780262537018/artificial-unintelligence/)** by Meredith Broussard (246 pages)
 * **[Making Numbers Count](https://www.simonandschuster.com/books/Making-Numbers-Count/Chip-Heath/9781982165444)** by Chip Heath and Karla Starr (208 pages)
 * **[Hello World](https://hannahfry.co.uk/book/hello-world/)** by Hannah Fry (272 pages)
-* [WATCHING November 2022] **[Storytelling with Data: Let's Practice!](https://www.storytellingwithdata.com/books)** by Cole Nussbaumer Knaflic (448 pages)
+* **[Storytelling with Data: Let's Practice!](https://www.storytellingwithdata.com/books)** by Cole Nussbaumer Knaflic (448 pages)
 * **[How Charts Lie](https://albertocairo.com/)** by Alberto Cairo (256 pages)
+
+* [READING December 2022] **[Atlas of AI](https://www.katecrawford.net/)** by Kate Crawford (336 pages)
 * [READ November 2022] **[The Data Detective](https://timharford.com/books/datadetective/)** by Tim Harford (336 pages)
